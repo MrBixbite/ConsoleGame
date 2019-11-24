@@ -69,6 +69,7 @@
                 GameDisplay.DrawMessage(entityList.Door);
             }
 
+            //Checks if player collects sword
             if (entityList.Player.XPosition == entityList.Sword.XPosition &&
                 entityList.Player.YPosition == entityList.Sword.YPosition)
                 HasSword = true;

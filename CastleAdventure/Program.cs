@@ -27,7 +27,7 @@ namespace CastleAdventure
             var key = new Key(25, 10);
             var door = new Door(GameDisplay.GameWidth, GameDisplay.GameHeight / 2);
             var sword = new Sword(5, 5);
-            var enemies = GetEnemyList(5, random);
+            var enemies = GetEnemyList(Settings.EnemyAmount, random);
             var coins = GetCoinList(5, random);
 
             while (GameConditions.GameOver == false)

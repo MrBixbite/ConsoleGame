@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\Documents\\C#\\Tests\\CastleAdventure\\CastleAdventure\\CastleAdventure.csproj": {}
+    "C:\\Users\\thoma\\Documents\\C#\\GitHub\\ConsoleGame\\CastleAdventure\\CastleAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\Documents\\C#\\Tests\\CastleAdventure\\CastleAdventure\\CastleAdventure.csproj": {
+    "C:\\Users\\thoma\\Documents\\C#\\GitHub\\ConsoleGame\\CastleAdventure\\CastleAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\Documents\\C#\\Tests\\CastleAdventure\\CastleAdventure\\CastleAdventure.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\Documents\\C#\\GitHub\\ConsoleGame\\CastleAdventure\\CastleAdventure.csproj",
         "projectName": "CastleAdventure",
-        "projectPath": "C:\\Users\\thoma\\Documents\\C#\\Tests\\CastleAdventure\\CastleAdventure\\CastleAdventure.csproj",
+        "projectPath": "C:\\Users\\thoma\\Documents\\C#\\GitHub\\ConsoleGame\\CastleAdventure\\CastleAdventure.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\Documents\\C#\\Tests\\CastleAdventure\\CastleAdventure\\obj\\",
+        "outputPath": "C:\\Users\\thoma\\Documents\\C#\\GitHub\\ConsoleGame\\CastleAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -98,6 +98,9 @@ namespace CastleAdventure
                         awaitingSelection = false;
                         break;
                     case 1:
+                        //Console.Clear();
+                        //Settings.DrawSettings();
+                        //Settings.GetSettingsSelection();
                         break;
                     case 2:
                         Console.Clear();

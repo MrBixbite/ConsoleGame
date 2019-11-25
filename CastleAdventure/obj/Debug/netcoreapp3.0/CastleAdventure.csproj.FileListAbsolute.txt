@@ -9,3 +9,14 @@ C:\Users\thoma\Documents\C#\Tests\CastleAdventure\CastleAdventure\obj\Debug\netc
 C:\Users\thoma\Documents\C#\Tests\CastleAdventure\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.AssemblyInfo.cs
 C:\Users\thoma\Documents\C#\Tests\CastleAdventure\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.dll
 C:\Users\thoma\Documents\C#\Tests\CastleAdventure\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.pdb
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\bin\Debug\netcoreapp3.0\CastleAdventure.exe
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\bin\Debug\netcoreapp3.0\CastleAdventure.deps.json
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\bin\Debug\netcoreapp3.0\CastleAdventure.runtimeconfig.json
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\bin\Debug\netcoreapp3.0\CastleAdventure.runtimeconfig.dev.json
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\bin\Debug\netcoreapp3.0\CastleAdventure.dll
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\bin\Debug\netcoreapp3.0\CastleAdventure.pdb
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.AssemblyInfo.cs
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.dll
+C:\Users\thoma\Documents\C#\GitHub\ConsoleGame\CastleAdventure\obj\Debug\netcoreapp3.0\CastleAdventure.pdb

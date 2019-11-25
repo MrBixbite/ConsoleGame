@@ -9,7 +9,7 @@
 
         public static void CheckForEntityInteractions(EntityList entityList)
         {
-            //Check if object is visible to player TODO FIX
+            //Check if player overlaps enemy
             foreach (var enemy in entityList.Enemies)
             {
                 if (entityList.Player.XPosition == enemy.XPosition &&
